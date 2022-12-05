@@ -1,0 +1,18 @@
+HRVATSKE INSTRUKCIJE
+
+Hero se igra sa WASD komandama te lijevim klikom miša za pucanje.
+
+dobivaju se bodovi za svakog ubijenog neprijatelja(vise velicina neprijatelja, razliciti bodovi ovisno o velicini)
+ako vas dotaknu izgubite dio života, nemojte doci do 0. (Game over screen)
+
+kada izgubite možete kliknuti ESC da izadete iz igrice.
+
+
+ENGLISH INSTRUCTIONS
+
+Hero is played with WASD commands. Use left mouse button to shoot.
+
+You get points for any enemy killed(different sizes of enemies give different points)
+If you get touched you lose health points, don't lose them all or you lose the game.
+
+When you lose, click ESC to exit the game.
